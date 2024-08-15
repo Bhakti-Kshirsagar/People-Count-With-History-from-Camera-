@@ -14,7 +14,8 @@ Jupyter Lab for development and testing.
 -Install dependencies using pip install -r requirements.txt.
 -Run Jupyter Lab and open the notebook.
 
- 5.Usage Instructions
+ 5. Usage Instructions:
+ 
   Running the Object Detection:
   -Start the Jupyter Lab server.
   -Open the notebook and run the cells sequentially to start object detection.
